@@ -1,0 +1,39 @@
+.Hbody {
+    width: 100%;
+    background-color:#9cbdda;
+    display: flex;
+    height: 50px;
+    z-index: 999;
+    /* box-shadow: 0px 5px 7px 0px rgba(0,0,0,0.24); */
+    box-shadow: 0 1px 8px 0 rgba(0,0,0,.2), 0 3px 4px 0 rgba(0,0,0,.14), 0 3px 3px -5px rgba(0,0,0,.12);
+   
+
+}
+
+.Hbody_container {
+    height: 28px; 
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.Hbody_container > ul >li {
+    color: white;
+    padding: 0 9px;
+    margin-top: 5px;
+    position: relative;
+    float: left;
+    line-height: inherit;
+    list-style-type: none;
+    
+    
+}
+.Hbody_container_Right > p {
+   
+    color: white;
+}
+
+
+
+
+

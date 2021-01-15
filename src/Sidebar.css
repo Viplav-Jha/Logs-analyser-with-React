@@ -1,0 +1,28 @@
+.sidebar{
+    width: 80px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0px;
+    /* z-index: 0; */
+    background-color:whitesmoke;
+    overflow: auto;
+    margin-top: 41px;
+    column-gap: 50px;
+   
+
+
+}
+
+.sidebar__container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    cursor: pointer;
+    overflow-x: hidden;
+    scrollbar-width: thick;
+}
+
+
+  
+ 
